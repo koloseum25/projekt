@@ -1,0 +1,29 @@
+GitHub
+
+Polecenia:
+1. Zaloguj siê do GitHub
+- Do³¹cz wspó³pracownika
+- Odt¹d komunikujecie siê tak, jakbyœcie siê nie widzieli (czyli przez GitHub)
+- Utwórz 2 repozytoria publiczne: Projekt_DP, Projekt_STD, obydwa z do³¹czeniem pliku readme
+- W plikach readme wpisz wasze imiona i nazwiska
+
+2. W repozytorium Projekt_DP nanieœ odpakowan¹ zawartoœæ dp0.zip
+- Stwórz Pull request domagaj¹ce siê dodania bibliotek
+- W obu plikach state.cpp i builder.cpp dodaj pierwsz¹ linê: #include "stdafx.h"
+- Obydwa zaktualizowane pliki nanieœ do w³aœciwej ga³êzi GitHub
+- Stwórz Pull request domagaj¹ce siê dodania informacji o wersji
+- W obu plikach state.cpp i builder.cpp dodaj na górze liniê komentarza: "Ver 1.1"
+- Zaktualizowane pliki nanieœ do w³aœciwej ga³êzi GitHub
+- Odpowiedz na Pull requests
+- Dodaj Project i kolumnê Done, a w niej napisz krótki raport wprowadzonych zmian  
+
+3. Do ga³êzi Projekt_STD nanieœ odpakowan¹ zawartoœæ dp1.zip
+- Stwórz Pull request domagaj¹ce siê aktualizacji okna informacji
+- Zaktualizuj powy¿szy projekt tak, aby w oknie informacje pojawi³o siê wasze imiona i nazwiska
+- Zaktualizowany projekt nanieœ do w³aœciwej ga³êzi GitHub
+- Stwórz Pull request domagaj¹ce siê dodania informacji o wersji
+- Pobierz projekt i w pliku dp1.cpp nanieœ na górze liniê komentarza: "Ver 1.0" 
+- Zaktualizowany projekt nanieœ do w³aœciwej ga³êzi GitHub
+- Odpowiedz na Pull requests
+- Dodaj Project i kolumnê Done, a w niej napisz krótki raport wprowadzonych zmian
+
